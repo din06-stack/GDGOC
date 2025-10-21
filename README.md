@@ -1,0 +1,2 @@
+# GDGOC
+TUGAS 1 GDGOC
